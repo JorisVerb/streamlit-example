@@ -1,7 +1,7 @@
 import streamlit
 
-Streamlit.title('new appe')
+streamlit.title('new appe')
 
-Streamlit.header('new header')
-Streamlit.text('some text')
+streamlit.header('new header')
+streamlit.text('some text')
                 
